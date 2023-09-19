@@ -31,7 +31,7 @@ def enter_url():
         check.append(url)
         results=loaded_model.predict(check)
         print(results)
-        flash('URL submitted for processing.')
+        # flash('URL submitted for processing.')
         return render_template('index.html',results=results[0])
 @app.route('/upload_image', methods=['GET', 'POST'])
 def upload_image():
