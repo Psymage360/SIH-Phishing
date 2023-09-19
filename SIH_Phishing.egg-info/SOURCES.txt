@@ -1,0 +1,7 @@
+setup.py
+SIH_Phishing.egg-info/PKG-INFO
+SIH_Phishing.egg-info/SOURCES.txt
+SIH_Phishing.egg-info/dependency_links.txt
+SIH_Phishing.egg-info/requires.txt
+SIH_Phishing.egg-info/top_level.txt
+src/__init__.py
